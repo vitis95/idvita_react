@@ -1,0 +1,32 @@
+.nav-header_container  {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.nav-header_container {
+    
+}
+
+.nav-header_container {
+    padding: 50px;
+    border: 2px solid red;
+}
+
+.nav-header_logo {
+    font-family: 'Rubik', sans-serif; font-size: 25px;
+    text-transform: uppercase;
+    border: 2px solid blue;
+}
+
+.nav-header_nav ul {
+    display: flex;
+    justify-content: flex-start;
+    
+    border: 2px solid green;
+}
+
+.nav-header_nav ul li {
+    margin-left: 40px;
+    cursor: pointer;
+}
